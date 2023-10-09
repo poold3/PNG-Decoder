@@ -4,7 +4,7 @@ This decoder was built from the documentation on PNGs found at http://www.libpng
 This decoder does not accept PNGs that implement the interlace method.
 
 ## Zlib
-This decoder utilizes zlib-1.3. The zlib file directory should be placed within the headers directory. Zlib is available for download at https://www.zlib.net/. For more information on the decompression process, see https://www.zlib.net/manual.html.
+This decoder utilizes zlib-1.3. Zlib is available for download at https://www.zlib.net/. For more information on the decompression process, see https://www.zlib.net/manual.html.
 
 ## Example Usage
 You can interact with the raw pixel data of a PNG by running your PNG through the following steps:
