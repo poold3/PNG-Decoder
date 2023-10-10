@@ -6,7 +6,7 @@
 #include <string>
 #include <climits>
 
-#include "zlib/zlib.h"
+#include "zlib.h"
 
 class Inflate {
 private:
